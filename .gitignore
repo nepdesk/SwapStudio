@@ -1,0 +1,7 @@
+.idea
+.venv
+models
+temp
+data/output/
+data/target/temp/
+__pycache__
